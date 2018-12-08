@@ -6,3 +6,5 @@ import random
 # print answer
 answer = random.randint(1,100)
 print(answer)
+
+guess = int(input("Guess a number between 1 and 100: ")) # getting user input
