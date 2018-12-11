@@ -3,12 +3,12 @@ import random
 
 # by ulgoon
 # assign answer with randint between 1 to 100
-# print answer
-# print(answer)
 
 answer = random.randint(1,100)
 
-# print(answer)
+print(answer)
+#by mindudekim
+#print answer ahead of guessing
 
 # by choiic
 # assign user_num with input()
