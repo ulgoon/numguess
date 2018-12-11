@@ -16,7 +16,9 @@ def numguess():
 def set_answer():
     # TODO: set answer with random.randint() (range: 1 to 100)
     # return integer
-    pass
+
+    return random.randint(1,101)
+
 
 def user_choice():
     # TODO: get integer from user with input()
