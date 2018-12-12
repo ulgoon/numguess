@@ -1,3 +1,4 @@
+# hi im hyub
 import random
 
 
@@ -34,3 +35,4 @@ while True:
     except:
         print("Input Integer number in range 1~100")
         continue
+    #checked by Daeun Kim
